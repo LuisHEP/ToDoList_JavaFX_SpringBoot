@@ -1,0 +1,8 @@
+[ {
+  "id" : "c6f7f2e8-1c55-4c5b-a4d7-0b4c5a7f8b1c",
+  "title" : "Exemplo: Estudar JavaFX",
+  "description" : "Ler documentação e criar um projeto inicial",
+  "completed" : false,
+  "createdAt" : [ 2025, 1, 1, 10, 0 ],
+  "dueDate" : [ 2025, 1, 10, 18, 0 ]
+} ]

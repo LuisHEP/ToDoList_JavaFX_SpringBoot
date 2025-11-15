@@ -1,0 +1,8 @@
+com\example\todolist\backend\mapper\TaskMapper.class
+com\example\todolist\backend\controller\TaskController.class
+com\example\todolist\backend\dto\TaskDto.class
+com\example\todolist\backend\repository\JsonTaskRepository$1.class
+com\example\todolist\backend\service\TaskService.class
+com\example\todolist\backend\repository\JsonTaskRepository.class
+com\example\todolist\backend\controller\GlobalExceptionHandler.class
+com\example\todolist\backend\TodoListBackendApplication.class
